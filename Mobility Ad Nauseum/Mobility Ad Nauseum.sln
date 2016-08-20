@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E8CF3A31-4D62-BE97-0F2E-BF7166F64A7C}") = "Mobility Ad Nauseum", "Assembly-CSharp.csproj", "{44203B19-1DE7-5B01-3C3C-36CB5E6A8FCA}"
+EndProject
+Project("{E8CF3A31-4D62-BE97-0F2E-BF7166F64A7C}") = "Mobility Ad Nauseum", "Assembly-CSharp-Editor.csproj", "{16A57412-D121-7052-AC1C-7EC5BD6B994C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44203B19-1DE7-5B01-3C3C-36CB5E6A8FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44203B19-1DE7-5B01-3C3C-36CB5E6A8FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44203B19-1DE7-5B01-3C3C-36CB5E6A8FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44203B19-1DE7-5B01-3C3C-36CB5E6A8FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16A57412-D121-7052-AC1C-7EC5BD6B994C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A57412-D121-7052-AC1C-7EC5BD6B994C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A57412-D121-7052-AC1C-7EC5BD6B994C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A57412-D121-7052-AC1C-7EC5BD6B994C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
